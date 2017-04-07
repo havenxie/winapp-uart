@@ -1,0 +1,10 @@
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.csprojResolveAssemblyReference.cache
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\Usart1.Drawer.resources
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\Usart1.MainForm.resources
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.csproj.GenerateResource.Cache
+F:\C#\C#Example\MyApp\MyUsart\bin\Debug\MyUsart.exe.config
+F:\C#\C#Example\MyApp\MyUsart\bin\Debug\MyUsart.exe
+F:\C#\C#Example\MyApp\MyUsart\bin\Debug\MyUsart.pdb
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.Properties.Resources.resources
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.exe
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.pdb

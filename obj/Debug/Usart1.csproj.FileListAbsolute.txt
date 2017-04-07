@@ -1,0 +1,34 @@
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\bin\Debug\Usart1.exe.config
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\bin\Debug\Usart1.exe
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\bin\Debug\Usart1.pdb
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.csprojResolveAssemblyReference.cache
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.Properties.Resources.resources
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.csproj.GenerateResource.Cache
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.exe
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.pdb
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.Drawer.resources
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.MainForm.resources
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\bin\Debug\Usart1.exe.manifest
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\bin\Debug\Usart1.application
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.exe.manifest
+C:\Users\14288\Documents\Visual Studio 2015\Projects\Test_Demo\Usart1\obj\Debug\Usart1.application
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\bin\Debug\Usart1.exe.config
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.exe
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.pdb
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\bin\Debug\Usart1.exe
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\bin\Debug\Usart1.pdb
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.csprojResolveAssemblyReference.cache
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.Drawer.resources
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.MainForm.resources
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.Properties.Resources.resources
+C:\Users\14288\Desktop\temporary\Test_Demo\Usart1\obj\Debug\Usart1.csproj.GenerateResource.Cache
+F:\C#\C#Example\Test_Demo\Usart1\bin\Debug\Usart1.exe.config
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.exe
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.pdb
+F:\C#\C#Example\Test_Demo\Usart1\bin\Debug\Usart1.exe
+F:\C#\C#Example\Test_Demo\Usart1\bin\Debug\Usart1.pdb
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.csprojResolveAssemblyReference.cache
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.Drawer.resources
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.MainForm.resources
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.Properties.Resources.resources
+F:\C#\C#Example\Test_Demo\Usart1\obj\Debug\Usart1.csproj.GenerateResource.Cache
