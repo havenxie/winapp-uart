@@ -34,3 +34,7 @@
 9. 增加了UTF8到GB2312码，GB2312码到TUF8码的转换功能2016.4.17
 
 10. 只有定时选项没有定时功能
+
+## 许可
+
+[MIT](./LICENSE) &copy; [havenxie](http://github.com/havenxie)
