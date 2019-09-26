@@ -260,27 +260,9 @@ namespace Usart1
         /// <param name="myComboBox"></param>
         private void selectAndAddComport(SerialPort mySerialPort, ComboBox myComboBox)
         {
-            string selectCom;
-            if (comSelect.Text != "")//鼠标进入时保留控件上的端口号
-            {
-                usartPortNum = comSelect.Text;
-                comSelect.Text = "";
-            }
             comSelect.Items.Clear();
-            for (int i = 1; i <= 30; i++)
-            {
-                selectCom = "COM" + i.ToString();
-                mySerialPort.PortName = selectCom;
-                try
-                {
-                    mySerialPort.Open();
-                    comSelect.Items.Add(selectCom);
-                    mySerialPort.Close();
-                }
-                catch
-                {
-                }
-            }
+            foreach (string com in System.IO.Ports.SerialPort.GetPortNames())//自动获取串口号名称
+            comSelect.Items.Add(com);
         }
 
 
